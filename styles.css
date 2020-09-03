@@ -39,7 +39,14 @@ a:hover {
   margin: 0 auto;
   padding: 0;
 }
-
+.about {
+background-color: #f7f5f0;
+color: black;
+border-radius: 6px;
+max-width: 500px;
+text-align: center;
+margin: auto;
+}
 .nav .name {
     display: block;
     margin-right: auto;
